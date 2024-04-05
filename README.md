@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=SEJIN%20YOO&fontSize=90" />
 
 <div align=center>
-  <h1>📚 TECH STACKS 📚</h1>
+  <h1>✨ TECH STACKS ✨</h1>
   
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
