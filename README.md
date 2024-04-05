@@ -38,7 +38,8 @@
 
   
   ![SEJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeJin&show_icons=true&theme=buefy)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpwls101&layout=compact&theme=buefy)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpwls101)](https://solved.ac/tpwls101/)
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpwls101&layout=compact&theme=buefy) -->
   
 </div>
 
