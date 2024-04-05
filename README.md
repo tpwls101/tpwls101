@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SEJIN%20YOO&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=SEJIN%20YOO&fontSize=90" />
 
 <div align=center>
   <h1>📚 TECH STACKS 📚</h1>
