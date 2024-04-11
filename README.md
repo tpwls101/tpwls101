@@ -44,6 +44,42 @@
 </div>
 
 
+## Projects
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Introduction</th>
+    <th>Languages, etc.</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/naerim/giveus">Giveus</a></td>
+    <td> (2024) </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/naerim/switi_app">Switi</a></td>
+    <td> (2021) </td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/naerim/pawsitive">Pawsitive</a></td>
+    <td> (2024) </td>
+    <td> </td>
+  </tr>
+   <tr>
+    <td><a href="https://github.com/naerim/traveen">Traveen</a></td>
+    <td> (2023) </td>
+    <td></td>
+  </tr>
+   <tr>
+    <td><a href="https://github.com/eyear22/eyear_frontend">Eyear</a></td>
+    <td> (2022) </td>
+    <td></td>
+  </tr>
+</table>
+
+<br />
+
 
 <!--
 **tpwls101/tpwls101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
