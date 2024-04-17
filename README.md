@@ -52,28 +52,23 @@
     <th>Languages, etc.</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/naerim/giveus">Giveus</a></td>
+    <td><a href="https://github.com/tpwls101/Epilogue">E:pilogue</a></td>
     <td> (2024) </td>
     <td> </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/naerim/switi_app">Switi</a></td>
-    <td> (2021) </td>
+    <td><a href="https://github.com/tpwls101/MaLiTell">MaLiTell</a></td>
+    <td> (2024) </td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/naerim/pawsitive">Pawsitive</a></td>
-    <td> (2024) </td>
-    <td> </td>
-  </tr>
-   <tr>
-    <td><a href="https://github.com/naerim/traveen">Traveen</a></td>
+    <td><a href="https://github.com/tpwls101/DDHomes">DDHomes</a></td>
     <td> (2023) </td>
-    <td></td>
+    <td> </td>
   </tr>
    <tr>
-    <td><a href="https://github.com/eyear22/eyear_frontend">Eyear</a></td>
-    <td> (2022) </td>
+    <td><a href="https://github.com/tpwls101/COVID-19 NOTE">COVID-19 NOTE</a></td>
+    <td> (2021) </td>
     <td></td>
   </tr>
 </table>
