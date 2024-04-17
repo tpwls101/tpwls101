@@ -65,22 +65,22 @@
   <tr>
     <td><a href="https://github.com/tpwls101/Epilogue">E:pilogue</a></td>
     <td> (2024) </td>
-    <td>Sprint Boot, JPA, AWS EC2, Jenkins, Docker, AWS S3</td>
+    <td>Java, Sprint Boot, JPA, AWS EC2, Jenkins, Docker, AWS S3</td>
   </tr>
   <tr>
     <td><a href="https://github.com/tpwls101/MaLiTell">MaLiTell</a></td>
     <td> (2024) </td>
-    <td>Sprint Boot, JPA, Spring Security</td>
+    <td>Java, Sprint Boot, JPA, Spring Security</td>
   </tr>
   <tr>
     <td><a href="https://github.com/tpwls101/DDHomes">DDHomes</a></td>
     <td> (2023) </td>
-    <td>Spring Boot, MyBatis</td>
+    <td>Java, Spring Boot, MyBatis, Vue.js, JavaScript, Pinia</td>
   </tr>
    <tr>
     <td><a href="https://github.com/tpwls101/COVID-19 NOTE">COVID-19 NOTE</a></td>
     <td> (2021) </td>
-    <td></td>
+    <td>Java, JSP, JavaScript</td>
   </tr>
 </table>
 
