@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=SEJIN%20YOO&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=Welcome%20To%20SEJIN's%20Github&fontSize=60" />
 
 ## Who Am I
 🤩 I'm learning development of BACKEND<br>
