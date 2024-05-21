@@ -9,7 +9,12 @@
 💻 SSAFY(Samsung Software Academy For Youth) 10th (2023.07 ~ Now)<br>
 💻 JAVA Web Developer Training at KIC Campus (2021.09 ~ 2022.03)<br>
 🌎 Lived in the United States for 2 years (2019.03 ~ 2021.02)<br>
-🎓 Department of Computer Engineering, Seokyung University (2016.03 ~ 2022.08)<br><br>
+🎓 Department of Computer Engineering, Seokyung University (2016.03 ~ 2022.08)<br>
+
+## Certificates
+🖥 Engineer Information Processing(정보처리기사) (2022.06.17)<br>
+🖥 SQLD(SQL Developer) (2024.04.05)<br>
+📢 OPIc (2022.09.27) - IH<br><br>
 
 <div align=center>
   <h2>✨ TECH STACKS ✨</h2>
@@ -63,23 +68,28 @@
     <th>Languages, etc.</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/tpwls101/DDIB">DDIB & BIDD</a></td>
+    <td> 타임딜 이벤트 플랫폼 대여 서비스 (2024) </td>
+    <td>Java, Sprint Boot, JPA, Redis, OpenFeign, JMeter</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/tpwls101/Epilogue">E:pilogue</a></td>
-    <td> (2024) </td>
+    <td> 블록체인 기반의 디지털 유언 생성 및 디지털 추모관 제공 플랫폼 (2024) </td>
     <td>Java, Sprint Boot, JPA, AWS EC2, Jenkins, Docker, AWS S3</td>
   </tr>
   <tr>
     <td><a href="https://github.com/tpwls101/MaLiTell">MaLiTell</a></td>
-    <td> (2024) </td>
+    <td> 1:1 비대면 전문가 상담 및 메타버스 자조모임 제공을 통한 심리 상담 플랫폼 (2024) </td>
     <td>Java, Sprint Boot, JPA, Spring Security</td>
   </tr>
   <tr>
     <td><a href="https://github.com/tpwls101/DDHomes">DDHomes</a></td>
-    <td> (2023) </td>
+    <td> 공공데이터를 활용한 아파트 매물 정보 제공 서비스 (2023) </td>
     <td>Java, Spring Boot, MyBatis, Vue.js, JavaScript, Pinia</td>
   </tr>
    <tr>
     <td><a href="https://github.com/tpwls101/COVID-19 NOTE">COVID-19 NOTE</a></td>
-    <td> (2021) </td>
+    <td> 코로나 정보 종합 제공 서비스 (2021) </td>
     <td>Java, JSP, JavaScript</td>
   </tr>
 </table>
