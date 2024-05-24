@@ -14,8 +14,7 @@
 ## Certificates
 🖥 Engineer Information Processing(정보처리기사) (2022.06.17)<br>
 🖥 SQLD(SQL Developer) (2024.04.05)<br>
-📢 OPIc (2022.09.27) - IH<br><br>
-
+📢 OPIc (2022.09.27) - IH<br>
 
 ## Tech Stacks
 - Languages : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
@@ -43,8 +42,11 @@
             <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
             <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
             <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
-            <br>
-   
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+            <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=MatterMost&logoColor=white">
+            <br><br>
+
+
 ![SEJIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeJin&show_icons=true&theme=buefy)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tpwls101)](https://solved.ac/tpwls101/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpwls101&layout=compact&theme=buefy) -->
