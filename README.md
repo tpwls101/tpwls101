@@ -8,7 +8,7 @@
 ## Experience
 💻 SSAFY(Samsung Software Academy For Youth) 10th (2023.07 ~ Now)<br>
 💻 JAVA Web Developer Training at KIC Campus (2021.09 ~ 2022.03)<br>
-🌎 Lived in the United States for 2 years (2019.03 ~ 2021.02)<br>
+🌎 I've been in the United States for 2 years (2019.03 ~ 2021.02)<br>
 🎓 Department of Computer Engineering, Seokyung University (2016.03 ~ 2022.08)<br>
 
 ## Certificates
