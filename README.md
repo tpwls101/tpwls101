@@ -59,7 +59,7 @@
     <th>Title</th>
     <th>Introduction</th>
     <th>Languages, etc.</th>
-    <th>Year<th>
+    <th>Year</th>
   </tr>
   <tr>
     <td><a href="https://github.com/tpwls101/DDIB">DDIB & BIDD</a></td>
