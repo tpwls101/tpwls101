@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=Welcome%20to%20my%20Github&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=Welcome%20to%20SEJIN's%20Github&fontSize=50" />
 
 ## Who Am I
 🤩 I'm studying development of BACKEND<br>
@@ -6,15 +6,15 @@
 🤩 I'm enjoying now, the moment I learn and grow up myself<br>
   
 ## Experience
-💻 SSAFY(Samsung Software Academy For Youth) 10th (2023.07 ~ Now)<br>
+💻 SSAFY(Samsung Software Academy For Youth) 10th (2023.07 ~ 2024.06)<br>
 💻 JAVA Web Developer Training at KIC Campus (2021.09 ~ 2022.03)<br>
 🌎 I've been in the United States for 2 years (2019.03 ~ 2021.02)<br>
-🎓 Graduated Department of Computer Engineering (2016.03 ~ 2022.08)<br>
+🎓 Department of Computer Engineering, Seokyung University (2016.03 ~ 2022.08)<br>
 
 ## Certificates
 🖥 Engineer Information Processing(정보처리기사) (2022.06.17)<br>
 🖥 SQLD(SQL Developer) (2024.04.05)<br>
-📢 OPIc (2022.09.27) - IH<br>
+📢 OPIc (2024.09.15) - IH<br>
 
 ## Tech Stacks
 - Languages : <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
