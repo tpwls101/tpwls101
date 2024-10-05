@@ -64,19 +64,19 @@
   <tr>
     <td><a href="https://github.com/tpwls101/DDIB">DDIB & BIDD</a></td>
     <td> 대용량 트래픽에도 터지지 않는 타임딜 플랫폼 대여 서비스 (Web) </td>
-    <td>Java, Sprint Boot, JPA, MySQL, Redis, OpenFeign, JMeter, GCP</td>
+    <td>Java, Sprint Boot, Spring Data JPA, MySQL, Redis, OpenFeign, JMeter, GCP</td>
     <td>2024</td>
   </tr>
   <tr>
     <td><a href="https://github.com/tpwls101/Epilogue">E:pilogue</a></td>
     <td> 블록체인 기반의 디지털 유언 생성 및 디지털 추모관 제공 플랫폼 (App) </td>
-    <td>Java, Sprint Boot, JPA, MySQL, AWS EC2, Jenkins, Docker, AWS S3</td>
+    <td>Java, Sprint Boot, Spring Data JPA, MySQL, AWS S3, AWS EC2, Jenkins, Docker, Nginx</td>
     <td>2024</td>
   </tr>
   <tr>
     <td><a href="https://github.com/tpwls101/MaLiTell">MaLiTell</a></td>
     <td> 심리 상담 및 메타버스 자조모임 제공 비대면 마음 치료소 (Web) </td>
-    <td>Java, Sprint Boot, JPA, MySQL, Spring Security</td>
+    <td>Java, Sprint Boot, Spring Data JPA, MySQL, Spring Security</td>
     <td>2024</td>
   </tr>
   <tr>
