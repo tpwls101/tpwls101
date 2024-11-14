@@ -89,7 +89,7 @@
     <td><a href="https://github.com/tpwls101/COVID-19 NOTE">COVID-19 NOTE</a></td>
     <td> 코로나 정보 종합 제공 서비스 (Web) </td>
     <td>Java, JSP, JavaScript, Kakao Map API</td>
-     <td>2021</td>
+     <td>2022</td>
   </tr>
 </table>
 
