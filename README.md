@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=300&section=header&text=Welcome%20to%20SEJIN's%20Github&fontSize=50" />
 
 ## Who Am I
-🤩 I'm studying development of BACKEND<br>
-🤩 I love to communicate with various people<br>
-🤩 I'm enjoying now, the moment I learn and grow up myself<br>
+🤩 I'm studying development of BACKEND.<br>
+🤩 I love to communicate with various people.<br>
+🤩 I'm enjoying now, the moment I learn and grow up myself.<br>
   
 ## Experience
 💻 SSAFY(Samsung Software Academy For Youth) 10th (2023.07 ~ 2024.06)<br>
